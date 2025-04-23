@@ -291,3 +291,7 @@ This pipeline ensures that any updates to the `develop` branch are:
 - Deployed to the Azure Container App (on push only)
 
 It is tightly coupled with the infrastructure pipeline that must handle secret provisioning beforehand.
+
+## Infracost
+
+An infracost bot from the Infracost github app is installed in the repository by following the interactive guide from the official site: https://dashboard.infracost.io/
