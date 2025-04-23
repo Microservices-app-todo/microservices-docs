@@ -23,10 +23,6 @@
 - **1 Intermediate DevOps Engineer**
 - **1 Junior DevOps Engineer**
 
-# Microservices Workflow
-
-![Microservices Work Flow](images/microservices-workflow.png)
-
 # Agile Methodology Proposal: Kanban
 
 Characteristics 
@@ -65,11 +61,36 @@ Characteristics
   5. Once approved, the infrastructure changes are merged into `develop`
 
 
+## 🗂️ Task Management Proposal: GitHub Project
+
+This project uses **GitHub Projects** as a task management solution, following the **Kanban** methodology to ensure a visual, efficient, and streamlined development process.
+
+### 📌 Kanban Columns Overview
+
+The project board is structured into the following columns:
+
+- **Backlog**:  
+  Tasks that have been identified but are not yet prioritized for immediate work. This is the main pool of potential work.
+
+- **Ready**:  
+  Tasks that are groomed and ready to be picked up by the development team.
+
+- **In Progress**:  
+  Tasks that are currently being worked on by the team.
+
+- **In Review**:  
+  Completed tasks undergoing code review or QA validation before being considered finished.
+
+- **Done**:  
+  Successfully completed tasks that have passed review and are deployed or ready for release.
+
+
+# Microservices Workflow
+
+![Microservices Work Flow](images/microservices-workflow.png)
+
 
 # Design Proposal
-
-
-
 
 ![Architectural Proposal](images/architectural_design.png)
 ## Used Components
