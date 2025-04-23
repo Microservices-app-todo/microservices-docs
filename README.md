@@ -154,12 +154,18 @@ The **Gatekeeper** and **Throttling** patterns were implemented as middlewares f
 
 # Pipelines
 
-### Infrastructure: 
+### General
 
-**infrastructure setup and orchestration of image loading by microservices**
+- **release:** Automated release for each repository
 
-### develope (each microservice): 
+### Infrastructure Environment:
 
-* **image build and ACR register by infrastructure orchestation**
+- **deploy:** infrastructure setup and orchestration of image loading by microservices
 
-* **ACR register by applied push**
+### Development Environment (for each microservice)
+
+- **build:**
+
+  * image build and ACR register by infrastructure orchestation
+
+  * ACR register by applied push
