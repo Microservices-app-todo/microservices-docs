@@ -3,6 +3,13 @@
 ## Alejandro Córdoba Erazo
 ## Alejandro Londoño Bermúdez
 
+# Dos bits
+
+## 🎯 Project: TodoApp Platform – Microservices for Enterprise Productivity
+### Client: Grupo Éxito
+
+Grupo Éxito, one of the largest and most recognized companies in Colombia’s retail sector, aims to boost internal productivity across all operational levels. To achieve this, the company has initiated the development of TodoApp, a task management platform focused on collaboration, automation, and activity monitoring for both administrative and operational staff.
+
 # 👥 Tech Team Composition
 
 ### Head of Tech
